@@ -7,6 +7,8 @@
 
 After their fight last time, Dougie the Donut and Pizza Rat have since become best buds taking New York City by storm. Now instead of causing trouble against each other, they've taken it upon themselves to cause trouble around the city! The catch is, they don't want to get caught by the police (in other words, they want to eat their cake and have it, too) so they've put their brains together to come up with a helpful app idea that will allow them to see what kind of trouble they can cause without getting thrown in jail. Let's help them build it!
 
+Here is an example [demo](https://esin87.github.io/dougie-ajax-lab-solution/) of the app we are going to build!
+
 #### Learning Objectives
 
 - Making AJAX calls to an external API
